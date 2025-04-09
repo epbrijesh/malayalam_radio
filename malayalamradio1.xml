@@ -1,8 +1,7 @@
 <channel>
 <!--Top Radio Stations-->
 <station name="റേഡിയോ കൈരളി 🌴" image="https://3.bp.blogspot.com/-NHAl44g4Smk/W0l_XHOz9yI/AAAAAAAACIQ/bQyIlxMv5lU1yEjgUa3eBPUz5n8J220OgCLcBGAs/s1600/Radio_Kairali.jpg" link="http://185.193.112.155:18344"/>
-<station name="ആകാശവാണി മഞ്ചേരി FM" image="https://4.bp.blogspot.com/-TUt8EIk_1sY/W1SO_Hqsp_I/AAAAAAAACNo/cGKTiJg2sXQLJKgpLl0aCNBIs7S66MM8QCLcBGAs/s1600/AIR_Manjeri_FM4.jpg" link="http://airlsmp-lh.akamaihd.net/i/AIRLSMP037_1@855171/master.m3u8"/>
-<station name="ആകാശവാണി മഞ്ചേരി FM (Old URL)" image="https://4.bp.blogspot.com/-TUt8EIk_1sY/W1SO_Hqsp_I/AAAAAAAACNo/cGKTiJg2sXQLJKgpLl0aCNBIs7S66MM8QCLcBGAs/s1600/AIR_Manjeri_FM4.jpg" link="http://185.193.112.155:18146"/>
+<station name="ആകാശവാണി മഞ്ചേരി FM" image="https://4.bp.blogspot.com/-TUt8EIk_1sY/W1SO_Hqsp_I/AAAAAAAACNo/cGKTiJg2sXQLJKgpLl0aCNBIs7S66MM8QCLcBGAs/s1600/AIR_Manjeri_FM4.jpg" link="https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8"/>
 <station name="ആകാശവാണി തൃശ്ശൂര്‍" image="https://2.bp.blogspot.com/-yNw4sMuftOQ/XUxLM5aMH1I/AAAAAAAACt8/2Mwsh8YkZGYb83Q-zJwhg2jPT3uFGYQAQCK4BGAYYCw/s1600/AIR_THRISSUR.png" link="http://airlsmp-lh.akamaihd.net/i/AIRLSMP031_1@855164/master.m3u8"/>
 <station name="ആകാശവാണി കൊച്ചി FM" image="https://1.bp.blogspot.com/-Himo4IaPC9o/XTtVAM6S1iI/AAAAAAAACo0/FZWVqFB8UugL9LHpqwUznnyvehmj3KrZACLcBGAs/s1600/AIR_Kochi_FM.png" link="http://airlsmp-lh.akamaihd.net/i/AIRLSMP014_1@11753/master.m3u8"/>
 <station name="ആകാശവാണി കണ്ണൂര്‍ FM" image="https://1.bp.blogspot.com/-379u0DEYh00/XUL5x-Akq5I/AAAAAAAACpY/d65kBZ5DgzclAsl37yPLh7dwUHMDihIwgCLcBGAs/s1600/AIR_Kannur_FM.png" link="http://airlsmp-lh.akamaihd.net/i/AIRLSMP022_1@855155/master.m3u8"/>
