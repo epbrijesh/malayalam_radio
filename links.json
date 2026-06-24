@@ -1,7 +1,7 @@
 {
   "radio": {
     "radio_name": "Radio Kairali",
-    "radio_url": "http://usa16.fastcast4u.com:24110",
+    "radio_url": "http://usa16.fastcast4u.com:24110/stream/;",
     "radio_image_url": "https://turadio.com.py/appradio/santaclara/logo.png",
     "background_image_url": "https://turadio.com.py/appradio/santaclara/background.png"
   },
