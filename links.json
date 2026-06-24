@@ -1,0 +1,20 @@
+{
+  "radio": {
+    "radio_name": "Radio Kairali",
+    "radio_url": "http://usa16.fastcast4u.com:24110",
+    "radio_image_url": "https://turadio.com.py/appradio/santaclara/logo.png",
+    "background_image_url": "https://turadio.com.py/appradio/santaclara/background.png"
+  },
+  "facebook": {
+    "icon": "https://turadio.com.py/app-json/iconos/facebook.png",
+    "link": "fb://page/100064255082141/"
+  },
+  "whatsapp": {
+    "icon": "https://turadio.com.py/app-json/iconos/whatsapp.png",
+    "link": "http://api.whatsapp.com/send?phone=595986573470"
+  },
+  "messenger": {
+    "icon": "https://turadio.com.py/app-json/iconos/messenger.png",
+    "link": "https://m.me/100064255082141/"
+  }
+}
