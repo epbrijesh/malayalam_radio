@@ -1,6 +1,6 @@
  {
   "stream_config": {
-    "stream_url": "http://usa16.fastcast4u.com:24110/stream",	
+    "stream_url": "http://usa16.fastcast4u.com:24110",	
 	"videoUrl": "",
 	"videoImagem": "https://cdn.api.radio.br/video/semvideo.png",
    "metadata_url": "https://api.radio.br/api/now-playing/46380f3da8e1969be61e4af46b5e7a2c",
